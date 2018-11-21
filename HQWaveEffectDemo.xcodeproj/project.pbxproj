@@ -15,6 +15,7 @@
 		7A2ED5E921A4FC1D009F0409 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A2ED5E821A4FC1D009F0409 /* main.m */; };
 		7A2ED5F321A4FC1D009F0409 /* HQWaveEffectDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A2ED5F221A4FC1D009F0409 /* HQWaveEffectDemoTests.m */; };
 		7A2ED5FE21A4FC1D009F0409 /* HQWaveEffectDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A2ED5FD21A4FC1D009F0409 /* HQWaveEffectDemoUITests.m */; };
+		7A2ED61621A54ACE009F0409 /* 640.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7A2ED61521A54ACE009F0409 /* 640.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		7A2ED5F921A4FC1D009F0409 /* HQWaveEffectDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HQWaveEffectDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A2ED5FD21A4FC1D009F0409 /* HQWaveEffectDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HQWaveEffectDemoUITests.m; sourceTree = "<group>"; };
 		7A2ED5FF21A4FC1D009F0409 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A2ED61521A54ACE009F0409 /* 640.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 640.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				7A2ED5E421A4FC1D009F0409 /* LaunchScreen.storyboard */,
 				7A2ED5E721A4FC1D009F0409 /* Info.plist */,
 				7A2ED5E821A4FC1D009F0409 /* main.m */,
+				7A2ED61521A54ACE009F0409 /* 640.gif */,
 			);
 			path = HQWaveEffectDemo;
 			sourceTree = "<group>";
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7A2ED5E621A4FC1D009F0409 /* LaunchScreen.storyboard in Resources */,
+				7A2ED61621A54ACE009F0409 /* 640.gif in Resources */,
 				7A2ED5E321A4FC1D009F0409 /* Assets.xcassets in Resources */,
 				7A2ED5E121A4FC1B009F0409 /* Main.storyboard in Resources */,
 			);
